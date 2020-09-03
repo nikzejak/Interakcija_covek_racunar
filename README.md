@@ -1,1 +1,1 @@
-<h1>App: World resources
+<h1>App: World resources (Praćenje svetskih resursa)
