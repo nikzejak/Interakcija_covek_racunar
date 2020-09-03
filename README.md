@@ -1,1 +1,1 @@
-# Interakcija_covek_racunar
+App: World resources
